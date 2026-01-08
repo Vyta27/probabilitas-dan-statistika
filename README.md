@@ -1,4 +1,7 @@
-# Penjelasan Code Analisa Data Zamato (sudah di jabarkan)
+## Navyta Budi Yulia (312410184)
+## TI.24.A3
+
+# Penjelasan Code Analisa Data Zamato 
 
 
 ## Langkah 1: Mengimpor Pustaka Python yang Diperlukan

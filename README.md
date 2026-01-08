@@ -1,4 +1,4 @@
-# Penjelasan menjabar Code Analisa Data Zamato
+# Penjelasan Code Analisa Data Zamato (sudah di jabarkan)
 
 
 ## Langkah 1: Mengimpor Pustaka Python yang Diperlukan
